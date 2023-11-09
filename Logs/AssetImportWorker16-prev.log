@@ -1,0 +1,296 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.7f1 (c53830e277f1) revision 12924976'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 22000.2538; Version 2009; 64bit' Language: 'fr' Physical Memory: 7973 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker16
+-projectPath
+C:/Users/HP/Desktop/rm/reff
+-logFile
+Logs/AssetImportWorker16.log
+-srvPort
+56482
+Successfully changed project path to: C:/Users/HP/Desktop/rm/reff
+C:/Users/HP/Desktop/rm/reff
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 89.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.7f1 (c53830e277f1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/HP/Desktop/rm/reff/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics (ID=0x8a56)
+    Vendor:   
+    VRAM:     3986 MB
+    Driver:   27.20.100.8935
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56984
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001288 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 80.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.335 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.009157 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 329.99 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in 15.943 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 2.96 seconds
+Refreshing native plugins compatible for Editor in 1.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3138 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 136.3 MB.
+System memory in use after: 136.5 MB.
+
+Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 3567.
+Total: 4.032500 ms (FindLiveObjects: 0.625100 ms CreateObjectMapping: 0.170700 ms MarkObjects: 2.995500 ms  DeleteObjects: 0.239600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Textures/New/Greenhouse/x2048.png
+  artifactKey: Guid(3a2f55ae2aa5c42419e29ae55245dfbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New/Greenhouse/x2048.png using Guid(3a2f55ae2aa5c42419e29ae55245dfbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4a3fd389b62e7077018ef6c08e20281') in 3.124598 seconds
+  Import took 3.410820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012475 seconds.
+  path: Assets/Textures/New/Greenhouse/GreenhouseMiddleground.png
+  artifactKey: Guid(d6db5f6644a1b2f4ea2af3ab3bce40ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New/Greenhouse/GreenhouseMiddleground.png using Guid(d6db5f6644a1b2f4ea2af3ab3bce40ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13cd0dcba3b90de115327522dbaacb2b') in 0.927468 seconds
+  Import took 0.949717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.057179 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(527e0d49f8e7b485da966311bc98cca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(527e0d49f8e7b485da966311bc98cca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03c6a86bd9ceb51dfd0c443304365a0c') in 0.025882 seconds
+  Import took 0.271885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002448 seconds.
+  path: Assets/Textures/New/Greenhouse/XChildNotice.png
+  artifactKey: Guid(899e947edb7c36448b675472e85553d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New/Greenhouse/XChildNotice.png using Guid(899e947edb7c36448b675472e85553d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa599f745ddd60fb836799fbbb6c9742') in 0.240916 seconds
+  Import took 0.375736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004074 seconds.
+  path: Assets/Textures/New/Greenhouse/BG1.png
+  artifactKey: Guid(b9e91c0ea596aa94aa72b6f2985eac8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New/Greenhouse/BG1.png using Guid(b9e91c0ea596aa94aa72b6f2985eac8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '895be878cfc53aa16be9b45a0b153963') in 0.216212 seconds
+  Import took 0.408819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/Textures/New/Greenhouse/05x453.png
+  artifactKey: Guid(b4d720dafd76c3542af09cdb79f04a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New/Greenhouse/05x453.png using Guid(b4d720dafd76c3542af09cdb79f04a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab5d77d0e25afbb217c97d8530e26f0f') in 0.115983 seconds
+  Import took 0.227830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001996 seconds.
+  path: Assets/Textures/New/Greenhouse/image1.png
+  artifactKey: Guid(0889ad4bb6099464cb533980855c850f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New/Greenhouse/image1.png using Guid(0889ad4bb6099464cb533980855c850f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a6c4694b79edf645e1937beb2632521') in 0.169982 seconds
+  Import took 0.218104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024413 seconds.
+  path: Assets/Textures/New/Greenhouse/BoyAdultNotice.png
+  artifactKey: Guid(e83f3d639986aab45bcc150d696e979f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New/Greenhouse/BoyAdultNotice.png using Guid(e83f3d639986aab45bcc150d696e979f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e92ef41b57f57145f17719f59d55b564') in 0.550170 seconds
+  Import took 0.648874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014376 seconds.
+  path: Assets/Textures/New/Greenhouse/R3NewBackground.png
+  artifactKey: Guid(334fe829639dee6489fb20ea0a5a7d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New/Greenhouse/R3NewBackground.png using Guid(334fe829639dee6489fb20ea0a5a7d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5346e02d941e0012b76b913e3e5eb954') in 0.335263 seconds
+  Import took 0.440876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023382 seconds.
+  path: Assets/Textures/New/Greenhouse/background.png
+  artifactKey: Guid(72423e0560d0bfa458f467df5d4b174f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New/Greenhouse/background.png using Guid(72423e0560d0bfa458f467df5d4b174f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a01c6d62b020b3a32190186030d2c44') in 0.506197 seconds
+  Import took 0.751587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.114749 seconds.
+  path: Assets/Textures/New/Greenhouse/6914e1a5.png
+  artifactKey: Guid(b6bb98f766a2a43438729274af6c9e53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New/Greenhouse/6914e1a5.png using Guid(b6bb98f766a2a43438729274af6c9e53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d5d2d4f028d8d56227d09cd996f93fc') in 0.293237 seconds
+  Import took 0.301544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002565 seconds.
+  path: Assets/Textures/New/Greenhouse/WaterMr.mat
+  artifactKey: Guid(b23171fd83c85694795314c8038b672b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New/Greenhouse/WaterMr.mat using Guid(b23171fd83c85694795314c8038b672b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c596eaea054cb9c4ca11528c3d044cc2') in 16.210551 seconds
+  Import took 16.282287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000551 seconds.
+  path: Assets/Textures/New/Greenhouse/images.png
+  artifactKey: Guid(3575b00f9f338c147817db43ba12b2ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New/Greenhouse/images.png using Guid(3575b00f9f338c147817db43ba12b2ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79bc25813878a151a7913ccb6ec2656b') in 0.178750 seconds
+  Import took 0.883332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/Textures/New/Greenhouse/2736.png
+  artifactKey: Guid(878b339397be0594a9b735aa26d073d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New/Greenhouse/2736.png using Guid(878b339397be0594a9b735aa26d073d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35a328019afe94fae3e9faa8556af0fc') in 0.237663 seconds
+  Import took 0.342248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052794 seconds.
+  path: Assets/Textures/New/Greenhouse/fish.png
+  artifactKey: Guid(a88615b57891d084d92afbecfc13d1a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New/Greenhouse/fish.png using Guid(a88615b57891d084d92afbecfc13d1a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65396d473390c8bc09ac5a787620020f') in 0.117580 seconds
+  Import took 0.290824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001567 seconds.
+  path: Assets/Textures/New/Greenhouse/8487033c.png
+  artifactKey: Guid(220de8c76f378dc42bf17caa309bf552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New/Greenhouse/8487033c.png using Guid(220de8c76f378dc42bf17caa309bf552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd753c363866ebeed3d019bbe13094e79') in 0.647251 seconds
+  Import took 0.671030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.524414 seconds.
+  path: Assets/Textures/New/Greenhouse/Titre.png
+  artifactKey: Guid(95cc554360ba1964caccdf5f0f92dd82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New/Greenhouse/Titre.png using Guid(95cc554360ba1964caccdf5f0f92dd82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '804b70c01abacb002d9a6f28b799aed7') in 0.174670 seconds
+  Import took 0.212881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001535 seconds.
+  path: Assets/Scenes/main.unity
+  artifactKey: Guid(013ae204932654842a33cd6058d97d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/main.unity using Guid(013ae204932654842a33cd6058d97d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a40820c8d9a49ae5dcac9ec814eafe30') in 0.017602 seconds
+  Import took 0.035853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000782 seconds.
+  path: Assets/Textures/New/Greenhouse/R3MiddleGround.png
+  artifactKey: Guid(7977d1d4a389a2e4e93b472d485bf2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New/Greenhouse/R3MiddleGround.png using Guid(7977d1d4a389a2e4e93b472d485bf2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f0e59ce9057a11ce633df488e5867d6') in 0.150933 seconds
+  Import took 0.175873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025208 seconds.
+  path: Assets/Textures/New/Greenhouse/XAdultNotice.png
+  artifactKey: Guid(b50b33c6777194f489d39d3192b4a8a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New/Greenhouse/XAdultNotice.png using Guid(b50b33c6777194f489d39d3192b4a8a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd724d627b0d68a7d7b295760112c4e02') in 0.149916 seconds
+  Import took 0.236303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Textures/New/Greenhouse/Aqua.png
+  artifactKey: Guid(da84a32cc2ff31945a4a2a06efc71410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New/Greenhouse/Aqua.png using Guid(da84a32cc2ff31945a4a2a06efc71410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c0756c499cc2e7dd7f170b387aa2297') in 0.154968 seconds
+  Import took 0.168366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.562010 seconds.
+  path: Assets/Textures/New/Greenhouse/05x453.png
+  artifactKey: Guid(b4d720dafd76c3542af09cdb79f04a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New/Greenhouse/05x453.png using Guid(b4d720dafd76c3542af09cdb79f04a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab5d77d0e25afbb217c97d8530e26f0f') in 0.035076 seconds
+  Import took 0.087935 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 1.434616 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.02 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.099 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3047 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 132.7 MB.
+System memory in use after: 133.0 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3633.
+Total: 4.099900 ms (FindLiveObjects: 0.495500 ms CreateObjectMapping: 0.224200 ms MarkObjects: 3.295800 ms  DeleteObjects: 0.081800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.022614 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 3.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.695 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3047 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 132.8 MB.
+System memory in use after: 133.0 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3637.
+Total: 8.074900 ms (FindLiveObjects: 1.329900 ms CreateObjectMapping: 0.344700 ms MarkObjects: 6.206100 ms  DeleteObjects: 0.187600 ms)
+
