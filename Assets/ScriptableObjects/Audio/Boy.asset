@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddf9cdc675236694eaff391a04dc7298, type: 3}
+  m_Name: Boy
+  m_EditorClassIdentifier: 
+  Turned18: {fileID: 8300000, guid: 294a994e0c0de1342bb0e4632aed1d8c, type: 3}
+  EnterGreenhouse: {fileID: 8300000, guid: 053787645f902914399a179559cf54cc, type: 3}
+  L1Win: {fileID: 8300000, guid: a05f99e8e7c2ef34a9310a0256ded9b3, type: 3}
+  L2Win: {fileID: 8300000, guid: c171fa58fe9a2af478e70c5ca51a5338, type: 3}
+  L3Win: {fileID: 8300000, guid: a51ecc7fa636f2e46ace00dc6e48477d, type: 3}
+  L4Win: {fileID: 8300000, guid: 77c3cf7d4aaf55f4ab753d85db76f350, type: 3}
+  L5Win: {fileID: 8300000, guid: b9c10cd5fcbbc624da66c15d07faacea, type: 3}
+  L6Win: {fileID: 8300000, guid: 599d910c40a5aad4fb81436809d25f4b, type: 3}
+  L7Win: {fileID: 8300000, guid: d8060ba828f0201458a54b3d7665bde2, type: 3}
+  R3L1Lost: {fileID: 8300000, guid: a697150fe4dbc2e4c8081b455e642731, type: 3}
+  R3L2Lost: {fileID: 8300000, guid: c1c7eccafef071045a867f9ad43a1c9a, type: 3}
+  R3L3Lost: {fileID: 8300000, guid: b4bd0ad59971f4f49aa21b36f0ee68de, type: 3}
+  R3L4Lost: {fileID: 8300000, guid: b8c6ba3bbc28c8b468120b834eb7982b, type: 3}
+  R3L5Lost: {fileID: 8300000, guid: b8c6ba3bbc28c8b468120b834eb7982b, type: 3}
+  R3L6Lost: {fileID: 8300000, guid: b8c6ba3bbc28c8b468120b834eb7982b, type: 3}
+  R3L6Flyer1: {fileID: 8300000, guid: 6e96021b3db8ab84d80174582031a4e3, type: 3}
+  R3L6Flyer2: {fileID: 8300000, guid: b5c03c307618ada4fb94be7daa657f96, type: 3}
+  R3L6Flyer3: {fileID: 8300000, guid: 83cdef2bf70ffb54c932a235dec7d061, type: 3}
+  R3L6Flyer4: {fileID: 8300000, guid: 69b85274c05c003409053e9d9994de16, type: 3}
+  R3L2WinMessage: {fileID: 8300000, guid: 54521510f2ed36948853d4caf976ee88, type: 3}
+  R3L6WinMessage: {fileID: 8300000, guid: 37bc34889fbaed845a303e1a72514121, type: 3}

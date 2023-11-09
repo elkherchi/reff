@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <ui:VisualElement style="flex-wrap: wrap;">
+        <ui:TextField picking-mode="Ignore" label="Sprite Path" name="SpritePath" tooltip="Directory that contains all sprites" />
+        <ui:TextField picking-mode="Ignore" label="Animation Directory" name="AnimationDirectory" tooltip="Directory where new animation clip will be saved" />
+        <ui:TextField picking-mode="Ignore" label="Animation Name" multiline="false" name="AnimationName" tooltip="Animation clip name" />
+        <uie:IntegerField label="Frame Rate" value="30" name="FrameRate" tooltip="Relative path on gameobject" />
+        <ui:TextField picking-mode="Ignore" label="Relative Path" multiline="false" name="RelativePath" tooltip="Animation frame rate" />
+        <ui:Button text="Delete" display-tooltip-when-elided="true" name="DeleteButton" />
+    </ui:VisualElement>
+</ui:UXML>

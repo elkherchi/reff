@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28139158ae1a1294885a5e50b2e97b52, type: 3}
+  m_Name: Child
+  m_EditorClassIdentifier: 
+  L1Win: {fileID: 8300000, guid: ce7931a05bdda614aaa5b90b896b2531, type: 3}
+  L2Win: {fileID: 8300000, guid: 812980e5af9c347478a8b14ca7c2ae45, type: 3}
+  L3Win: {fileID: 8300000, guid: 1a00e3677abdf8c48aacd8ccdcd1ed5a, type: 3}
+  L4Win: {fileID: 8300000, guid: d4285b4c421fda548ab5939b791e52cd, type: 3}
+  L5Win: {fileID: 8300000, guid: b3704d89a7a9cfc4fa3b38c5eb9a4d60, type: 3}
+  L6Win: {fileID: 8300000, guid: fe78df67e8773bd4fb4cd6c80f1c4e8b, type: 3}
+  L7Win: {fileID: 8300000, guid: f94a255b38a8b2d45b6d1acf01f469ff, type: 3}
+  R1L1Lost: {fileID: 8300000, guid: d584b861b318a6f41ae5343522a2b197, type: 3}
+  R1L2Lost: {fileID: 8300000, guid: 6ed5d57ba89293040b7af11a19d8e13d, type: 3}
+  R1L3Lost: {fileID: 8300000, guid: b4bc37d25d7f88846865cb364ce13215, type: 3}
+  R1L4Lost: {fileID: 8300000, guid: 21f5b68e0b89b204394e4a3ff03f71df, type: 3}
+  R1L5Lost: {fileID: 8300000, guid: a56540dbacd094d4a8b6faf9e040fad8, type: 3}
+  R1L6Lost: {fileID: 8300000, guid: 06ca2071eca4d1a4b80fc6947f86a52d, type: 3}
+  R2L1Lost: {fileID: 8300000, guid: 537f3dcd02fd22a49a4fbc057a8dffb4, type: 3}
+  R2L2Lost: {fileID: 8300000, guid: 14595463565df2d4f911fa3c7d30292f, type: 3}
+  R2L3Lost: {fileID: 8300000, guid: d9c4300f96aef7c4798a14c44f7f6c95, type: 3}
+  R2L4Lost: {fileID: 8300000, guid: d31b7a903f4f63b48b4d5a4fec78a040, type: 3}
+  R2L5Lost: {fileID: 8300000, guid: 3d21c25e0f7272c4c9b28a25d16b370b, type: 3}
+  R2L6Lost: {fileID: 8300000, guid: d288fc7f7be9aea43ad1d14b36596248, type: 3}
+  R2L7Lost: {fileID: 8300000, guid: 56d4c0622ae18db4aa7680175d5dcea9, type: 3}

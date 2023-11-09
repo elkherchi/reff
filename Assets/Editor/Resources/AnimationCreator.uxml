@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement>
+        <ui:VisualElement name="AnimationDataContainer" />
+        <ui:Button text="Add" display-tooltip-when-elided="true" name="AddAnimationData" />
+        <ui:Button text="Create" display-tooltip-when-elided="true" name="CreateAnimation" />
+    </ui:VisualElement>
+</ui:UXML>

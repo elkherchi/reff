@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddf9cdc675236694eaff391a04dc7298, type: 3}
+  m_Name: CharacterX
+  m_EditorClassIdentifier: 
+  Turned18: {fileID: 8300000, guid: 85c417a0d36bc1e48bc1a8ccc3007562, type: 3}
+  EnterGreenhouse: {fileID: 8300000, guid: 338203b08d3248e46be640ad1303ecb9, type: 3}
+  L1Win: {fileID: 8300000, guid: af5c63dc008756c41a70e99aa0fae22e, type: 3}
+  L2Win: {fileID: 8300000, guid: f5af1fa73d6b1214fadbdb8f8555a384, type: 3}
+  L3Win: {fileID: 8300000, guid: e20840c1270b98448b3052b3a91e3902, type: 3}
+  L4Win: {fileID: 8300000, guid: d883067f3cf5edb449fdc9ce8c8e2279, type: 3}
+  L5Win: {fileID: 8300000, guid: 5ac97ff2e6efdd542be2fdfe1989fb81, type: 3}
+  L6Win: {fileID: 8300000, guid: 77f50393f94032640bdefcef0e759469, type: 3}
+  L7Win: {fileID: 8300000, guid: f2109e144f99ada43a85745f345b1566, type: 3}
+  R3L1Lost: {fileID: 8300000, guid: 26d8e67398404f444b85552bc435fcd4, type: 3}
+  R3L2Lost: {fileID: 8300000, guid: 91b0cf2f186c0bb488d92e9b930e94b0, type: 3}
+  R3L3Lost: {fileID: 8300000, guid: 28e4f22713e286c41bfd4a4df8b6ce9d, type: 3}
+  R3L4Lost: {fileID: 8300000, guid: 2c0681f4b69c3414a97ef47a291bcc5a, type: 3}
+  R3L5Lost: {fileID: 8300000, guid: 2c0681f4b69c3414a97ef47a291bcc5a, type: 3}
+  R3L6Lost: {fileID: 8300000, guid: 2c0681f4b69c3414a97ef47a291bcc5a, type: 3}
+  R3L6Flyer1: {fileID: 8300000, guid: 8348c6bcf91e7264fad59e96bab79c97, type: 3}
+  R3L6Flyer2: {fileID: 8300000, guid: dac17f4e3bba7da4f8bc8a018046b4e8, type: 3}
+  R3L6Flyer3: {fileID: 8300000, guid: 86723f1bb3b927a4a864d36edad90d52, type: 3}
+  R3L6Flyer4: {fileID: 8300000, guid: 596ef330ad3c63d47b996ab0d1fd642b, type: 3}
+  R3L2WinMessage: {fileID: 8300000, guid: 316370efb1cf2d04da45e73b6b52f6c7, type: 3}
+  R3L6WinMessage: {fileID: 8300000, guid: b2113e5a1ac95f54998e77b240d10ccb, type: 3}

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b0442674136f0c45be45f02502684df, type: 3}
+  m_Name: Girl
+  m_EditorClassIdentifier: 
+  Repeat: {fileID: 21300000, guid: ef057e66b51198c499f93a5f51c8cbdb, type: 3}
+  AdultRepeat: {fileID: 21300000, guid: ef057e66b51198c499f93a5f51c8cbdb, type: 3}
+  ID: {fileID: 21300000, guid: aee42ff7c7b54614a876eafda03400ae, type: 3}
+  Character: {fileID: 21300000, guid: fb699c9f0e0ee6d4ca40894477dfcc62, type: 3}
+  GatherSeedsCharacter: {fileID: 21300000, guid: fb699c9f0e0ee6d4ca40894477dfcc62,
+    type: 3}
+  ChildGreenHouseNotice: {fileID: 21300012, guid: 2ecb11bfa991c444391127fb1975a7aa,
+    type: 3}
+  AdultGreenHouseNotice: {fileID: 21300014, guid: 2ecb11bfa991c444391127fb1975a7aa,
+    type: 3}
+  BullyMessage: {fileID: 21300000, guid: 257e8a92856194145883ef65bbfff019, type: 3}
+  R3L2CharacterInfo: {fileID: 21300000, guid: 3479c6be79e4c314c844815708ebd421, type: 3}
+  R3L2CharacterSearching: {fileID: 21300000, guid: 481fbe8cff5444946a4051fd4bf48609,
+    type: 3}
+  R3L2CharacterHappy: {fileID: 21300000, guid: 6003b55d5262e2941bb6f98efd022543, type: 3}
+  R3L2CharacterWin: {fileID: 21300000, guid: 877e7227cac6d7e4faeebbc71f766628, type: 3}
+  R2L3Story1: {fileID: 21300000, guid: fb699c9f0e0ee6d4ca40894477dfcc62, type: 3}
+  R2L3Story2: {fileID: 21300000, guid: fb699c9f0e0ee6d4ca40894477dfcc62, type: 3}
+  R2L3Story3: {fileID: 21300000, guid: fb699c9f0e0ee6d4ca40894477dfcc62, type: 3}
+  R3L6Dirty: {fileID: 21300000, guid: ef386719e3119b346aa72c47baf1d1fa, type: 3}
+  R3L6Clean: {fileID: 21300000, guid: b1ae1807aef077c47b79ce9ee974d633, type: 3}
+  R3L6Bed: {fileID: 21300000, guid: d1dd5296a9042d143a101e96d6b38e7b, type: 3}
+  ChildAudio: {fileID: 11400000, guid: 23b641e5f2445ed46a1f9a9769f8ecc0, type: 2}
+  AdultAudio: {fileID: 11400000, guid: 72ce7553f6f53da46bced009d833ad43, type: 2}
+  Controller: {fileID: 9100000, guid: dced094ca3a2ce446b064ff1575c1286, type: 2}
